@@ -7,8 +7,8 @@ export const GlobalStyle = createGlobalStyle`
   }
 
   html {
-    height: 100vh;
-    border: 20px solid black;
+    min-height: 100vh;
+    border: 10px solid black;
   }
 
   body {
